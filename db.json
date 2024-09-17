@@ -1,0 +1,46 @@
+{
+  "musicas": [
+    {
+      "id": 1,
+      "name": "Anos Luz",
+      "price": 10.00,
+      "category": "Trap",
+      "artist": "Matuê"
+    },
+    {
+      "id": 2,
+      "name": "Sem gin sem ela",
+      "price": 10.00,
+      "category": "Funk",
+      "artist": "Mc IG"
+    },
+    {
+      "id": 3,
+      "name": "Terapia",
+      "price": 9.99,
+      "category": "Funk",
+      "artist": "Mc Kevin"
+    },
+    {
+      "id": 4,
+      "name": "Kamehameha",
+      "price": 9.99,
+      "category": "Funk",
+      "artist": "Mc Hariel"
+    },
+    {
+      "id": 5,
+      "name": "FE!N",
+      "price": 9.99,
+      "category": "Trap",
+      "artist": "Travis Scott"
+    },
+    {
+      "id": 6,
+      "name": "Queima de Novo",
+      "price": 9.99,
+      "category": "Gospel",
+      "artist": "Colo de Deus"
+    }
+  ]
+}
